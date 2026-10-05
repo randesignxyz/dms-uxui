@@ -1,0 +1,32 @@
+/* Material 3 type roles adapted for this browser workspace. Sizes are CSS pixels. */
+:root {
+  --type-font: 'Inter', 'Noto Sans Khmer', Arial, sans-serif;
+  --type-display-large: 57px;
+  --type-display-medium: 45px;
+  --type-display-small: 36px;
+  --type-headline-large: 32px;
+  --type-headline-medium: 28px;
+  --type-headline-small: 24px;
+  --type-title-large: 22px;
+  --type-title-medium: 16px;
+  --type-title-small: 14px;
+  --type-body-large: 16px;
+  --type-body-medium: 14px;
+  --type-body-small: 12px;
+  --type-label-large: 14px;
+  --type-label-medium: 12px;
+  --type-display-large-line: 64px;
+  --type-display-medium-line: 52px;
+  --type-display-small-line: 44px;
+  --type-headline-large-line: 40px;
+  --type-headline-medium-line: 36px;
+  --type-headline-small-line: 32px;
+  --type-title-large-line: 28px;
+  --type-title-medium-line: 24px;
+  --type-title-small-line: 20px;
+  --type-body-large-line: 24px;
+  --type-body-medium-line: 20px;
+  --type-body-small-line: 16px;
+  --type-label-large-line: 20px;
+  --type-label-medium-line: 16px;
+}
